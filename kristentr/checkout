@@ -1,0 +1,2 @@
+git checkout -b actions-bdehamer/demo main
+git pull https://github.com/actions/attest-build-provenance.git bdehamer/demo
