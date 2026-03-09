@@ -1,0 +1,2 @@
+git checkout -b actions-main main
+git pull https://github.com/actions/attest-build-provenance.git kristentr-patch 1
